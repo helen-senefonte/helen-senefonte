@@ -1,6 +1,6 @@
 ## General Information
 ### Hi, my name is Helen Senefonte 👩‍🏫. I am a Machine Learning Researcher and Assistant Professor of the Computer Science Department at UEL 💻. 
-[![Lattes](https://img.shields.io/static/v1?label=Curriculum&message=Lattes&color=pink)](http://buscatextual.cnpq.br/buscatextual/visualizacv.do)
+[![Lattes](https://img.shields.io/static/v1?label=Curriculum&message=Lattes&color=pink)](http://lattes.cnpq.br/3024430473396064)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/helen-c-mattos-senefonte-87628443)
 [![ResearchGate](https://img.shields.io/static/v1?label=Research&message=Gate&color=<COLOR>)](https://www.researchgate.net/profile/Helen_Senefonte) 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://https://twitter.com/HSenefonte) 
